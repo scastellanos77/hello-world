@@ -31,7 +31,7 @@
     <p>Tenene  otra cuenta? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Muchas gracias!. </h1>
+   <h1> Muchas gracias! BORIS, BASTIAN. </h1>
 
   
 </form>
